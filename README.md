@@ -4,6 +4,14 @@
 
 This project sets up a mock server for the eBookStore project using `Express`, `json-server`, and `json-server-auth`. It serves mock data for products, featured products, orders, and users, and includes authentication and authorization.
 
+Backend webpage can be seen by using this URL: https://codebook-mock-server-j8n3.onrender.com
+
+Frontend webpage can be seen by using this URL: https://ebookstore-arnob.netlify.app
+
+(To view the Frontend Source Folder, Visit: https://ebookstore-arnob.netlify.app/ )
+
+
+
 ## Project Structure
 
 ```
